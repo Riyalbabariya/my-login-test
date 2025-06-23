@@ -1,4 +1,4 @@
-# my-login-test
+# Selenium_basic_login
 
 This repository contains a basic Selenium WebDriver test using TestNG that performs a login test on the [Sauce Demo](https://www.saucedemo.com/) website.
 
